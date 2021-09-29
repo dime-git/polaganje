@@ -1,0 +1,7 @@
+C:\Users\Jovana\source\repos\dimeprva\dimeprva\bin\Debug\dimeprva.exe.config
+C:\Users\Jovana\source\repos\dimeprva\dimeprva\bin\Debug\dimeprva.exe
+C:\Users\Jovana\source\repos\dimeprva\dimeprva\bin\Debug\dimeprva.pdb
+C:\Users\Jovana\source\repos\dimeprva\dimeprva\obj\Debug\dimeprva.csprojAssemblyReference.cache
+C:\Users\Jovana\source\repos\dimeprva\dimeprva\obj\Debug\dimeprva.csproj.CoreCompileInputs.cache
+C:\Users\Jovana\source\repos\dimeprva\dimeprva\obj\Debug\dimeprva.exe
+C:\Users\Jovana\source\repos\dimeprva\dimeprva\obj\Debug\dimeprva.pdb

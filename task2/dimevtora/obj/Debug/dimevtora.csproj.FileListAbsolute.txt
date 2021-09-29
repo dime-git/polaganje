@@ -1,0 +1,7 @@
+C:\Users\Jovana\source\repos\dimevtora\dimevtora\obj\Debug\dimevtora.csprojAssemblyReference.cache
+C:\Users\Jovana\source\repos\dimevtora\dimevtora\obj\Debug\dimevtora.csproj.CoreCompileInputs.cache
+C:\Users\Jovana\source\repos\dimevtora\dimevtora\bin\Debug\dimevtora.exe.config
+C:\Users\Jovana\source\repos\dimevtora\dimevtora\bin\Debug\dimevtora.exe
+C:\Users\Jovana\source\repos\dimevtora\dimevtora\bin\Debug\dimevtora.pdb
+C:\Users\Jovana\source\repos\dimevtora\dimevtora\obj\Debug\dimevtora.exe
+C:\Users\Jovana\source\repos\dimevtora\dimevtora\obj\Debug\dimevtora.pdb
